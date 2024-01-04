@@ -1,0 +1,51 @@
+* {
+    background-color: #A9B2C7;
+    width: auto;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #368989;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    padding: 10px;
+    border: solid 15px #368989;
+}
+
+h3 {
+    color: #465F99;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+}
+
+ol, ul, li, a {
+    color: #08215C;
+    background-color: #B8DDB8;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    margin: 0px;
+}
+
+h6 {
+    color: #006D00;
+}
+
+p {
+    color: #006D00;
+    font-size: 16px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0 1em;;   
+}
+
+.links {
+    padding: 2px;
+}
+
+.recipe {
+    display: inline-block;
+    border: 1px dashed;
+    margin: 0px 2px 2px;
+    padding: 1px 2px;
+}
